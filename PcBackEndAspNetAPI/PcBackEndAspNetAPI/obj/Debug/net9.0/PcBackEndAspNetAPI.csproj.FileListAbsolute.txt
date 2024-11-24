@@ -1,0 +1,7 @@
+C:\PcEcommerceBackEnd\PcBackEndAspNetAPI\PcBackEndAspNetAPI\obj\Debug\net9.0\PcBackEndAspNetAPI.csproj.AssemblyReference.cache
+C:\PcEcommerceBackEnd\PcBackEndAspNetAPI\PcBackEndAspNetAPI\obj\Debug\net9.0\PcBackEndAspNetAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\PcEcommerceBackEnd\PcBackEndAspNetAPI\PcBackEndAspNetAPI\obj\Debug\net9.0\PcBackEndAspNetAPI.AssemblyInfoInputs.cache
+C:\PcEcommerceBackEnd\PcBackEndAspNetAPI\PcBackEndAspNetAPI\obj\Debug\net9.0\PcBackEndAspNetAPI.AssemblyInfo.cs
+C:\PcEcommerceBackEnd\PcBackEndAspNetAPI\PcBackEndAspNetAPI\obj\Debug\net9.0\PcBackEndAspNetAPI.csproj.CoreCompileInputs.cache
+C:\PcEcommerceBackEnd\PcBackEndAspNetAPI\PcBackEndAspNetAPI\obj\Debug\net9.0\PcBackEndAspNetAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\PcEcommerceBackEnd\PcBackEndAspNetAPI\PcBackEndAspNetAPI\obj\Debug\net9.0\PcBackEndAspNetAPI.MvcApplicationPartsAssemblyInfo.cache
