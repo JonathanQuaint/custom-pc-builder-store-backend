@@ -12,42 +12,37 @@ namespace PcBackEndAspNetAPI.Data
 {
     public class AppDbContext : IdentityDbContext<IdentityUser>
     {
-
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
         {
-
         }
 
-        public PaymentModel Payments { get; set; }
-        public CategoryModel Categorys { get; set; }
-        public ProductModel Products { get; set; }
-        public UserModel Users { get; set; }
-        public AddressModel Address { get; set; }
-        public OrderItemModel OrdersItems { get; set; }
-        public OrderModel Orders { get; set; }
-        public CartItemModel CartItems{ get; set; }
-        public CartModel Carts { get; set; }
-        public BuildComponentModel BuildsComponets { get; set; }
-        public CustomBuildModel CustomBuilds { get; set; }
-        public FilterModel Filters { get; set; }
+        public DbSet<PaymentModel> Payments { get; set; }
+        public DbSet<CategoryModel> Categories { get; set; }
+        public DbSet<ProductModel> Products { get; set; }
+        public new DbSet<UserModel> Users { get; set; }
+        public DbSet<AddressModel> Addresses { get; set; }
+        public DbSet<OrderItemModel> OrderItems { get; set; }
+        public DbSet<OrderModel> Orders { get; set; }
+        public DbSet<CartItemModel> CartItems { get; set; }
+        public DbSet<CartModel> Carts { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
 
             List<IdentityRole> roles = new List<IdentityRole>
-            {
-                new IdentityRole
                 {
-                    Name = "Admin",
-                    NormalizedName = "ADMIN"
-                },
-                new IdentityRole
-                {
-                    Name = "User",
-                    NormalizedName = "USER"
-                },
-            };
+                    new IdentityRole
+                    {
+                        Name = "Admin",
+                        NormalizedName = "ADMIN"
+                    },
+                    new IdentityRole
+                    {
+                        Name = "User",
+                        NormalizedName = "USER"
+                    },
+                };
 
             modelBuilder.Entity<IdentityRole>().HasData(roles);
 
@@ -125,29 +120,6 @@ namespace PcBackEndAspNetAPI.Data
                       .HasForeignKey(ci => ci.ProductID)
                       .OnDelete(DeleteBehavior.Restrict);
             });
-
-            // Configure BuildComponentModel
-            /* modelBuilder.Entity<BuildComponentModel>(entity =>
-            {
-                entity.HasKey(bc => bc.Id);
-                entity.Property(bc => bc.Type)
-                      .IsRequired()
-                      .HasMaxLength(50);
-            });
-
-            // Configure CustomBuildModel
-            modelBuilder.Entity<CustomBuildModel>(entity =>
-            {
-                entity.HasKey(cb => cb.Id);
-                entity.HasOne(cb => cb.User)
-                      .WithMany(u => u.CustomBuilds)
-                      .HasForeignKey(cb => cb.UserId)
-                      .OnDelete(DeleteBehavior.Cascade);
-                entity.HasMany(cb => cb.BuildComponents)
-                      .WithOne()
-                      .HasForeignKey(bc => bc.CustomBuildId)
-                      .OnDelete(DeleteBehavior.Cascade);
-            }); */
         }
     }
     

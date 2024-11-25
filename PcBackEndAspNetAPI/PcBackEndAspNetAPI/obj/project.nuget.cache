@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DrCzJUvZLR8=",
+  "dgSpecHash": "W5OExeskOqc=",
   "success": true,
-  "projectFilePath": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj",
+  "projectFilePath": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jofas\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Jofas\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

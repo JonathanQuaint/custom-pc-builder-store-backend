@@ -1,110 +1,290 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\",
+  "WorkspaceRootPath": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\models\\usersmodels\\addressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\models\\usersmodels\\addressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\models\\usersmodels\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\models\\usersmodels\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\interfaces\\service\\address\\iaddressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\interfaces\\service\\address\\iaddressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\models\\custombuildmodels\\buildcomponentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\models\\custombuildmodels\\buildcomponentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\interfaces\\service\\carts\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\interfaces\\service\\carts\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\models\\productmodels\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\interfaces\\service\\carts\\icartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\interfaces\\service\\carts\\icartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\interfaces\\service\\category\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\interfaces\\service\\category\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\interfaces\\service\\payment\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\interfaces\\service\\payment\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\repository\\product\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\repository\\product\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\services\\category\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\services\\category\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\interfaces\\service\\order\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\interfaces\\service\\order\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\interfaces\\service\\order\\iorderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\interfaces\\service\\order\\iorderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\interfaces\\service\\product\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\interfaces\\service\\product\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\services\\payment\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\services\\payment\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\interfaces\\service\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\interfaces\\service\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\services\\order\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\services\\order\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\services\\order\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\services\\order\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\services\\cart\\cartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\services\\cart\\cartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\services\\cart\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\services\\cart\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\services\\address\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\services\\address\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\services\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\services\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\dto\\product\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\dto\\product\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\models\\productmodels\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\models\\productmodels\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\models\\ordersmodels\\orderitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\models\\ordersmodels\\orderitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\models\\ordersmodels\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\models\\ordersmodels\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\models\\productmodels\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\models\\productmodels\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\models\\productmodels\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\pcbackendaspnetapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\pcbackendaspnetapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\repository\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\repository\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\models\\filtermodels\\filtermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\interfaces\\repository\\user\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\interfaces\\repository\\user\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\interfaces\\repository\\carts\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\interfaces\\repository\\carts\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\interfaces\\repository\\payment\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\interfaces\\repository\\payment\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\repository\\payment\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\repository\\payment\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\interfaces\\repository\\order\\iorderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\interfaces\\repository\\order\\iorderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\repository\\order\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\repository\\order\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\interfaces\\repository\\order\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\interfaces\\repository\\order\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\repository\\order\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\repository\\order\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\interfaces\\repository\\category\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\interfaces\\repository\\category\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\repository\\category\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\repository\\category\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\interfaces\\repository\\carts\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\interfaces\\repository\\carts\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\repository\\cart\\cartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\repository\\cart\\cartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\repository\\cart\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\repository\\cart\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\repository\\address\\addressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\repository\\address\\addressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\interfaces\\repository\\address\\iaddressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\interfaces\\repository\\address\\iaddressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\interfaces\\repository\\product\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\interfaces\\repository\\product\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\models\\usersmodels\\addressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\models\\usersmodels\\addressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\models\\usersmodels\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\models\\usersmodels\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\models\\filtermodels\\filtermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\models\\filtermodels\\filtermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\models\\paymentmodels\\paymentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\models\\paymentmodels\\paymentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\models\\custombuildmodels\\custombuildmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\models\\custombuildmodels\\custombuildmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\models\\cartmodels\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\models\\cartmodels\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\models\\cartmodels\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\models\\cartmodels\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\models\\cartmodels\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\models\\cartmodels\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\models\\custombuildmodels\\buildcomponentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\models\\custombuildmodels\\buildcomponentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\models\\custombuildmodels\\custombuildmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\models\\custombuildmodels\\custombuildmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\pcbackendaspnetapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\pcbackendaspnetapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Migrations\\20241124192338_First Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PcBackEndAspNetAPI\\Migrations\\20241124192338_First Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Migrations\\20241124192107_First Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PcBackEndAspNetAPI\\Migrations\\20241124192107_First Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Migrations\\20241124191649_First Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PcBackEndAspNetAPI\\Migrations\\20241124191649_First Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Migrations\\20241124191544_First Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PcBackEndAspNetAPI\\Migrations\\20241124191544_First Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Migrations\\20241124190305_First Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PcBackEndAspNetAPI\\Migrations\\20241124190305_First Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Migrations\\20241124185528_First Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PcBackEndAspNetAPI\\Migrations\\20241124185528_First Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\models\\ordersmodels\\orderitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\models\\ordersmodels\\orderitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\models\\ordersmodels\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\models\\ordersmodels\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\pcbackendaspnetapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\pcbackendaspnetapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|c:\\pcecommerce\\pcecommercebackend\\pcbackendaspnetapi\\pcbackendaspnetapi\\models\\paymentmodels\\paymentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB608185-008F-46D9-8C38-EAEEF56F2623}|PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj|solutionrelative:pcbackendaspnetapi\\models\\paymentmodels\\paymentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,214 +294,396 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 11,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddressController.cs",
-              "DocumentMoniker": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\AddressController.cs",
-              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Controllers\\AddressController.cs",
-              "ToolTip": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\AddressController.cs",
-              "RelativeToolTip": "PcBackEndAspNetAPI\\Controllers\\AddressController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T03:49:20.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CartItemController.cs",
-              "DocumentMoniker": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\CartItemController.cs",
-              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Controllers\\CartItemController.cs",
-              "ToolTip": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\CartItemController.cs",
-              "RelativeToolTip": "PcBackEndAspNetAPI\\Controllers\\CartItemController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T03:48:09.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OrderItemController.cs",
-              "DocumentMoniker": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\OrderItemController.cs",
-              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Controllers\\OrderItemController.cs",
-              "ToolTip": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\OrderItemController.cs",
-              "RelativeToolTip": "PcBackEndAspNetAPI\\Controllers\\OrderItemController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T03:47:26.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "PcBackEndAspNetAPI\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T03:46:58.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "PcBackEndAspNetAPI\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T03:46:17.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PaymentController.cs",
-              "DocumentMoniker": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\PaymentController.cs",
-              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Controllers\\PaymentController.cs",
-              "ToolTip": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\PaymentController.cs",
-              "RelativeToolTip": "PcBackEndAspNetAPI\\Controllers\\PaymentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T03:43:35.632Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\UserController.cs",
-              "RelativeToolTip": "PcBackEndAspNetAPI\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T03:42:54.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "PcBackEndAspNetAPI\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T00:48:55.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserModel.cs",
-              "DocumentMoniker": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\UsersModels\\UserModel.cs",
-              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Models\\UsersModels\\UserModel.cs",
-              "ToolTip": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\UsersModels\\UserModel.cs",
-              "RelativeToolTip": "PcBackEndAspNetAPI\\Models\\UsersModels\\UserModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T20:08:43.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddressModel.cs",
-              "DocumentMoniker": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\UsersModels\\AddressModel.cs",
-              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Models\\UsersModels\\AddressModel.cs",
-              "ToolTip": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\UsersModels\\AddressModel.cs",
-              "RelativeToolTip": "PcBackEndAspNetAPI\\Models\\UsersModels\\AddressModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T20:09:06.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\CartController.cs",
-              "RelativeToolTip": "PcBackEndAspNetAPI\\Controllers\\CartController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T03:40:32.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "PcBackEndAspNetAPI\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T03:40:07.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "PcBackEndAspNetAPI\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T03:39:40.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "PcBackEndAspNetAPI",
-              "DocumentMoniker": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj",
-              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj",
-              "ToolTip": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj",
-              "RelativeToolTip": "PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-24T00:48:18.721Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Services\\ProductService.cs",
-              "ToolTip": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Services\\ProductService.cs",
-              "RelativeToolTip": "PcBackEndAspNetAPI\\Services\\ProductService.cs",
+              "DocumentIndex": 13,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Services\\User\\UserService.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Services\\User\\UserService.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Services\\User\\UserService.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Services\\User\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:12:56.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Service\\User\\IUserService.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Interfaces\\Service\\User\\IUserService.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Service\\User\\IUserService.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Interfaces\\Service\\User\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:12:46.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Service\\Payment\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Interfaces\\Service\\Payment\\IPaymentService.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Service\\Payment\\IPaymentService.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Interfaces\\Service\\Payment\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:12:31.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Services\\Payment\\PaymentService.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Services\\Payment\\PaymentService.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Services\\Payment\\PaymentService.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Services\\Payment\\PaymentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:12:19.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrderItemService.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Service\\Order\\IOrderItemService.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Interfaces\\Service\\Order\\IOrderItemService.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Service\\Order\\IOrderItemService.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Interfaces\\Service\\Order\\IOrderItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:12:01.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderItemService.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Services\\Order\\OrderItemService.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Services\\Order\\OrderItemService.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Services\\Order\\OrderItemService.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Services\\Order\\OrderItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:11:37.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Service\\Order\\IOrderService.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Interfaces\\Service\\Order\\IOrderService.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Service\\Order\\IOrderService.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Interfaces\\Service\\Order\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:10:48.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Service\\Category\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Interfaces\\Service\\Category\\ICategoryService.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Service\\Category\\ICategoryService.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Interfaces\\Service\\Category\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:10:10.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Service\\Product\\IProductService.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Interfaces\\Service\\Product\\IProductService.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Service\\Product\\IProductService.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Interfaces\\Service\\Product\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:38:34.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Services\\Category\\CategoryService.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Services\\Category\\CategoryService.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Services\\Category\\CategoryService.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Services\\Category\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:09:58.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Program.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Program.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:12:30.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICartItemService.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Service\\Carts\\ICartItemService.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Interfaces\\Service\\Carts\\ICartItemService.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Service\\Carts\\ICartItemService.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Interfaces\\Service\\Carts\\ICartItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:09:36.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Repository\\Product\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Repository\\Product\\ProductRepository.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Repository\\Product\\ProductRepository.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Repository\\Product\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:06:06.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAddressService.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Service\\Address\\IAddressService.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Interfaces\\Service\\Address\\IAddressService.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Service\\Address\\IAddressService.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Interfaces\\Service\\Address\\IAddressService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:07:00.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Service\\Carts\\ICartService.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Interfaces\\Service\\Carts\\ICartService.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Service\\Carts\\ICartService.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Interfaces\\Service\\Carts\\ICartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:08:26.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Services\\Order\\OrderService.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Services\\Order\\OrderService.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Services\\Order\\OrderService.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Services\\Order\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:10:26.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CartItemService.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Services\\Cart\\CartItemService.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Services\\Cart\\CartItemService.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Services\\Cart\\CartItemService.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Services\\Cart\\CartItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:09:15.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Services\\Cart\\CartService.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Services\\Cart\\CartService.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Services\\Cart\\CartService.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Services\\Cart\\CartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:08:06.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddressService.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Services\\Address\\AddressService.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Services\\Address\\AddressService.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Services\\Address\\AddressService.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Services\\Address\\AddressService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:06:44.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Dto\\Product\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Dto\\Product\\CreateProductDto.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Dto\\Product\\CreateProductDto.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Dto\\Product\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:47:22.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Repository\\User\\UserRepository.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Repository\\User\\UserRepository.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Repository\\User\\UserRepository.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Repository\\User\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:37:26.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Repository\\User\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Interfaces\\Repository\\User\\IUserRepository.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Repository\\User\\IUserRepository.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Interfaces\\Repository\\User\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:37:10.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Repository\\Payment\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Interfaces\\Repository\\Payment\\IPaymentRepository.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Repository\\Payment\\IPaymentRepository.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Interfaces\\Repository\\Payment\\IPaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:35:44.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Repository\\Payment\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Repository\\Payment\\PaymentRepository.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Repository\\Payment\\PaymentRepository.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Repository\\Payment\\PaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:35:32.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\ProductModels\\ProductModel.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Models\\ProductModels\\ProductModel.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\ProductModels\\ProductModel.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Models\\ProductModels\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:12:48.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswBcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T00:48:55.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Services\\Product\\ProductService.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Services\\Product\\ProductService.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Services\\Product\\ProductService.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Services\\Product\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-24T00:48:09.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 29,
+              "Title": "IOrderItemRepository.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Repository\\Order\\IOrderItemRepository.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Interfaces\\Repository\\Order\\IOrderItemRepository.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Repository\\Order\\IOrderItemRepository.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Interfaces\\Repository\\Order\\IOrderItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:35:14.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderItemRepository.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Repository\\Order\\OrderItemRepository.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Repository\\Order\\OrderItemRepository.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Repository\\Order\\OrderItemRepository.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Repository\\Order\\OrderItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:35:02.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "CategoryModel.cs",
-              "DocumentMoniker": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\ProductModels\\CategoryModel.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\ProductModels\\CategoryModel.cs",
               "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Models\\ProductModels\\CategoryModel.cs",
-              "ToolTip": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\ProductModels\\CategoryModel.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\ProductModels\\CategoryModel.cs",
               "RelativeToolTip": "PcBackEndAspNetAPI\\Models\\ProductModels\\CategoryModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -330,115 +692,219 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ProductModel.cs",
-              "DocumentMoniker": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\ProductModels\\ProductModel.cs",
-              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Models\\ProductModels\\ProductModel.cs",
-              "ToolTip": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\ProductModels\\ProductModel.cs",
-              "RelativeToolTip": "PcBackEndAspNetAPI\\Models\\ProductModels\\ProductModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T19:12:48.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "OrderModel.cs",
-              "DocumentMoniker": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\OrdersModels\\OrderModel.cs",
-              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Models\\OrdersModels\\OrderModel.cs",
-              "ToolTip": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\OrdersModels\\OrderModel.cs",
-              "RelativeToolTip": "PcBackEndAspNetAPI\\Models\\OrdersModels\\OrderModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T19:15:07.897Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "OrderItemModel.cs",
-              "DocumentMoniker": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\OrdersModels\\OrderItemModel.cs",
-              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Models\\OrdersModels\\OrderItemModel.cs",
-              "ToolTip": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\OrdersModels\\OrderItemModel.cs",
-              "RelativeToolTip": "PcBackEndAspNetAPI\\Models\\OrdersModels\\OrderItemModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T19:15:33.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BuildComponentModel.cs",
-              "DocumentMoniker": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\CustomBuildModels\\BuildComponentModel.cs",
-              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Models\\CustomBuildModels\\BuildComponentModel.cs",
-              "ToolTip": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\CustomBuildModels\\BuildComponentModel.cs",
-              "RelativeToolTip": "PcBackEndAspNetAPI\\Models\\CustomBuildModels\\BuildComponentModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T19:19:48.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Program.cs",
-              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Program.cs",
-              "ToolTip": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Program.cs",
-              "RelativeToolTip": "PcBackEndAspNetAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T19:12:30.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "FilterModel.cs",
-              "DocumentMoniker": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\FilterModels\\FilterModel.cs",
-              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Models\\FilterModels\\FilterModel.cs",
-              "ToolTip": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\FilterModels\\FilterModel.cs",
-              "RelativeToolTip": "PcBackEndAspNetAPI\\Models\\FilterModels\\FilterModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T19:22:49.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "PaymentModel.cs",
-              "DocumentMoniker": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\PaymentModels\\PaymentModel.cs",
-              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Models\\PaymentModels\\PaymentModel.cs",
-              "ToolTip": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\PaymentModels\\PaymentModel.cs",
-              "RelativeToolTip": "PcBackEndAspNetAPI\\Models\\PaymentModels\\PaymentModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T19:20:33.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CustomBuildModel.cs",
-              "DocumentMoniker": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\CustomBuildModels\\CustomBuildModel.cs",
-              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Models\\CustomBuildModels\\CustomBuildModel.cs",
-              "ToolTip": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\CustomBuildModels\\CustomBuildModel.cs",
-              "RelativeToolTip": "PcBackEndAspNetAPI\\Models\\CustomBuildModels\\CustomBuildModel.cs",
+              "DocumentIndex": 31,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Repository\\Order\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Interfaces\\Repository\\Order\\IOrderRepository.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Repository\\Order\\IOrderRepository.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Interfaces\\Repository\\Order\\IOrderRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T19:19:31.518Z",
+              "WhenOpened": "2024-11-24T21:34:39.178Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Repository\\Order\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Repository\\Order\\OrderRepository.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Repository\\Order\\OrderRepository.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Repository\\Order\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:34:26.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Repository\\Category\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Interfaces\\Repository\\Category\\ICategoryRepository.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Repository\\Category\\ICategoryRepository.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Interfaces\\Repository\\Category\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:33:54.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Repository\\Category\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Repository\\Category\\CategoryRepository.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Repository\\Category\\CategoryRepository.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Repository\\Category\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:33:20.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ICartItemRepository.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Repository\\Carts\\ICartItemRepository.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Interfaces\\Repository\\Carts\\ICartItemRepository.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Repository\\Carts\\ICartItemRepository.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Interfaces\\Repository\\Carts\\ICartItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:32:04.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CartItemRepository.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Repository\\Cart\\CartItemRepository.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Repository\\Cart\\CartItemRepository.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Repository\\Cart\\CartItemRepository.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Repository\\Cart\\CartItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:31:27.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Repository\\Carts\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Interfaces\\Repository\\Carts\\ICartRepository.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Repository\\Carts\\ICartRepository.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Interfaces\\Repository\\Carts\\ICartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:30:58.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Repository\\Cart\\CartRepository.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Repository\\Cart\\CartRepository.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Repository\\Cart\\CartRepository.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Repository\\Cart\\CartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:30:39.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AddressRepository.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Repository\\Address\\AddressRepository.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Repository\\Address\\AddressRepository.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Repository\\Address\\AddressRepository.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Repository\\Address\\AddressRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:29:48.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IAddressRepository.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Repository\\Address\\IAddressRepository.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Interfaces\\Repository\\Address\\IAddressRepository.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Repository\\Address\\IAddressRepository.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Interfaces\\Repository\\Address\\IAddressRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:29:29.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Repository\\Product\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Interfaces\\Repository\\Product\\IProductRepository.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Interfaces\\Repository\\Product\\IProductRepository.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Interfaces\\Repository\\Product\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:07:15.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Dockerfile",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Dockerfile",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-24T20:16:57.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20241124192338_First Migration.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Migrations\\20241124192338_First Migration.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Migrations\\20241124192338_First Migration.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Migrations\\20241124192338_First Migration.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Migrations\\20241124192338_First Migration.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:23:38.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\appsettings.json",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\appsettings.json",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T18:19:24.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PcBackEndAspNetAPI.http",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI.http",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\PcBackEndAspNetAPI.http",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI.http",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\PcBackEndAspNetAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-24T18:50:31.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CartItemModel.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\CartModels\\CartItemModel.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Models\\CartModels\\CartItemModel.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\CartModels\\CartItemModel.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Models\\CartModels\\CartItemModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:17:40.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
               "Title": "CartModel.cs",
-              "DocumentMoniker": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\CartModels\\CartModel.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\CartModels\\CartModel.cs",
               "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Models\\CartModels\\CartModel.cs",
-              "ToolTip": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\CartModels\\CartModel.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\CartModels\\CartModel.cs",
               "RelativeToolTip": "PcBackEndAspNetAPI\\Models\\CartModels\\CartModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -447,16 +913,301 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CartItemModel.cs",
-              "DocumentMoniker": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\CartModels\\CartItemModel.cs",
-              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Models\\CartModels\\CartItemModel.cs",
-              "ToolTip": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\CartModels\\CartItemModel.cs",
-              "RelativeToolTip": "PcBackEndAspNetAPI\\Models\\CartModels\\CartItemModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 46,
+              "Title": "BuildComponentModel.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\CustomBuildModels\\BuildComponentModel.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Models\\CustomBuildModels\\BuildComponentModel.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\CustomBuildModels\\BuildComponentModel.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Models\\CustomBuildModels\\BuildComponentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T19:17:40.316Z",
+              "WhenOpened": "2024-11-23T19:19:48.303Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CustomBuildModel.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\CustomBuildModels\\CustomBuildModel.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Models\\CustomBuildModels\\CustomBuildModel.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\CustomBuildModels\\CustomBuildModel.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Models\\CustomBuildModels\\CustomBuildModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:19:31.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AddressModel.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\UsersModels\\AddressModel.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Models\\UsersModels\\AddressModel.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\UsersModels\\AddressModel.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Models\\UsersModels\\AddressModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:09:06.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\UsersModels\\UserModel.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Models\\UsersModels\\UserModel.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\UsersModels\\UserModel.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Models\\UsersModels\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:08:43.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FilterModel.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\FilterModels\\FilterModel.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Models\\FilterModels\\FilterModel.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\FilterModels\\FilterModel.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Models\\FilterModels\\FilterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:22:49.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20241124192107_First Migration.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Migrations\\20241124192107_First Migration.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Migrations\\20241124192107_First Migration.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Migrations\\20241124192107_First Migration.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Migrations\\20241124192107_First Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:21:07.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20241124191649_First Migration.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Migrations\\20241124191649_First Migration.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Migrations\\20241124191649_First Migration.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Migrations\\20241124191649_First Migration.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Migrations\\20241124191649_First Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:16:49.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20241124191544_First Migration.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Migrations\\20241124191544_First Migration.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Migrations\\20241124191544_First Migration.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Migrations\\20241124191544_First Migration.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Migrations\\20241124191544_First Migration.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:15:44.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20241124190305_First Migration.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Migrations\\20241124190305_First Migration.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Migrations\\20241124190305_First Migration.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Migrations\\20241124190305_First Migration.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Migrations\\20241124190305_First Migration.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:03:06.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20241124185528_First Migration.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Migrations\\20241124185528_First Migration.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Migrations\\20241124185528_First Migration.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Migrations\\20241124185528_First Migration.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Migrations\\20241124185528_First Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T18:55:28.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:42:54.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:43:35.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:46:17.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:46:58.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "OrderItemController.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\OrderItemController.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Controllers\\OrderItemController.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\OrderItemController.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Controllers\\OrderItemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:47:26.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CartItemController.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\CartItemController.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Controllers\\CartItemController.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\CartItemController.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Controllers\\CartItemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:48:09.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AddressController.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\AddressController.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Controllers\\AddressController.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\AddressController.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Controllers\\AddressController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:49:20.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\CartController.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:40:32.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:40:07.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:39:40.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "PcBackEndAspNetAPI.csproj",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T00:48:18.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\OrdersModels\\OrderModel.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Models\\OrdersModels\\OrderModel.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\OrdersModels\\OrderModel.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Models\\OrdersModels\\OrderModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:15:07.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "OrderItemModel.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\OrdersModels\\OrderItemModel.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Models\\OrdersModels\\OrderItemModel.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\OrdersModels\\OrderItemModel.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Models\\OrdersModels\\OrderItemModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:15:33.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "PaymentModel.cs",
+              "DocumentMoniker": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\PaymentModels\\PaymentModel.cs",
+              "RelativeDocumentMoniker": "PcBackEndAspNetAPI\\Models\\PaymentModels\\PaymentModel.cs",
+              "ToolTip": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\Models\\PaymentModels\\PaymentModel.cs",
+              "RelativeToolTip": "PcBackEndAspNetAPI\\Models\\PaymentModels\\PaymentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:20:33.33Z"
             }
           ]
         }

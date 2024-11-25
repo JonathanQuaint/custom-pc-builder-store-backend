@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj": {}
+    "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj": {}
   },
   "projects": {
-    "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj": {
+    "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj",
+        "projectUniqueName": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj",
         "projectName": "PcBackEndAspNetAPI",
-        "projectPath": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj",
+        "projectPath": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI.csproj",
         "packagesPath": "C:\\Users\\Jofas\\.nuget\\packages\\",
-        "outputPath": "C:\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\obj\\",
+        "outputPath": "C:\\PcEcommerce\\PcEcommerceBackEnd\\PcBackEndAspNetAPI\\PcBackEndAspNetAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
