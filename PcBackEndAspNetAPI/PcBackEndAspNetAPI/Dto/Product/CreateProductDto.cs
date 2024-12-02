@@ -20,7 +20,7 @@ namespace PcBackEndAspNetAPI.Dto.Product
 
 
         [Required]
-        public string Category { get; set; }
+        public List<int> CategoryIds { get; set; }
 
         public string ImageUrl { get; set; }
 

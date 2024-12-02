@@ -5,9 +5,9 @@ namespace PcBackEndAspNetAPI.Interfaces.Service.Product
 {
     public interface IProductService
     {
-        Task<List<ProductModel>> CreateProduct(CreateProductDto createProduct);
-        Task<List<ProductModel>> EditProduct(CreateProductDto createProduct);
-        Task<List<ProductModel>> DeleteProduct(CreateProductDto createProduct);
+        Task<ProductModel> CreateProduct(CreateProductDto createProduct);
+        Task<ProductModel> EditProduct(CreateProductDto createProduct);
+        Task<ProductModel> DeleteProduct(CreateProductDto createProduct);
 
     }
 }

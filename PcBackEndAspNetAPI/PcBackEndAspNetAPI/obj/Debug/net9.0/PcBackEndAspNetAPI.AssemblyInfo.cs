@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PcBackEndAspNetAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb691d6d316582a13c8842ef7ba812c8983b2780")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fd9b282cf297ad87cee8c839b3ca68bc4ba52c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("PcBackEndAspNetAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PcBackEndAspNetAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
