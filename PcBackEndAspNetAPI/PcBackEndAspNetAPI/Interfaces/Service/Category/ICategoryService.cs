@@ -1,16 +1,15 @@
-﻿using PcBackEndAspNetAPI.Models.CartModels;
+﻿using PcBackEndAspNetAPI.Dto.Category;
+using PcBackEndAspNetAPI.Models.CartModels;
 using PcBackEndAspNetAPI.Models.ProductModels;
 
 namespace PcBackEndAspNetAPI.Interfaces.Service.Category
 {
     public interface ICategoryService
     {
-
-
-        Task<List<CategoryModel>> CreateCategory();
-        Task<List<CategoryModel>> EditCategory();
-        Task<List<CategoryModel>> DeleteCategory();
-
+        Task<CategoryModel> CreateCategory(CreateCategoryDto createCategoryDto);
+        Task<CategoryModel> EditCategory(EditCategoryDto editCategoryDto);
+        Task<CategoryModel> DeleteCategory(DeleteCategoryDto deleteCategoryDto);
+        
 
     }
 }

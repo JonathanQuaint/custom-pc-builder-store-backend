@@ -48,5 +48,16 @@ namespace PcBackEndAspNetAPI.Repository.ProductRepository
 
             return ProductExistOrNot;
         }
+
+        public async Task<ProductModel?> FindProductByIdAsync(int Id)
+        {
+            return await _context.Products.FindAsync(Id);
+        }
+
+        public async Task<List<ProductModel>> GetProductsByIdAsync(List<int> productIds)
+        {
+            return await _context.Products.Where(c => productIds.Contains(c.Id)).ToListAsync();
+        }
     }
 }
+   

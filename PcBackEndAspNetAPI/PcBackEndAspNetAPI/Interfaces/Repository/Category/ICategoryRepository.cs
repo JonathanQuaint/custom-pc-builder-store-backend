@@ -4,12 +4,14 @@ namespace PcBackEndAspNetAPI.Interfaces.Repository.Category
 {
     public interface ICategoryRepository
     {
-        Task AddCategoryAsync(ProductModel product);
-        Task UpdateCategoryAsync(ProductModel product);
-        Task DeleteCategoryAsyc(ProductModel product);
+        Task AddCategoryAsync(CategoryModel category);
+        Task UpdateCategoryAsync(CategoryModel category);
+        Task DeleteCategoryAsyc(CategoryModel category);
         Task<List<CategoryModel>> GetCategoriesByIdAsync(List<int> categoryIds);
-        Task<CategoryModel> GetCategoryById(int categoryId);
-        Task<CategoryModel> GetCategoryByName(string name);
+        Task<CategoryModel> GetCategoryByIdAsync(int Id);
+        Task<CategoryModel> GetCategoryByNameAsync(string name);
+        Task<bool> CheckCategoryExistByNameAsync(string name);
+        Task<bool> CheckCategoryExistByIdAsync(int Id);
 
     }
 }

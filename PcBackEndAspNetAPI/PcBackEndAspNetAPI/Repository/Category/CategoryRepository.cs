@@ -37,16 +37,28 @@ namespace PcBackEndAspNetAPI.Repository.Category
             return await _context.Categories.Where(c => categoryIds.Contains(c.Id)).ToListAsync();
         }
 
-        public async Task<CategoryModel> GetCategoryByIdAsync(int categoryId)
+        public async Task<CategoryModel?> GetCategoryByIdAsync(int categoryId)
         {
             return await _context.Categories.FindAsync(categoryId);
         }
 
-        public async Task<CategoryModel> GetCategoryByNameAsync(string name)
+        public async Task<CategoryModel?> GetCategoryByNameAsync(string name)
         {
             return await _context.Categories.FirstOrDefaultAsync(c => c.Name == name);
         }
 
-       
+        public async Task<bool> CheckCategoryExistByNameAsync(string name)
+        {
+            bool CategoryExistOrNot = await _context.Categories.AnyAsync(p => p.Name == name);
+
+            return CategoryExistOrNot;
+        }
+
+        public async Task<bool> CheckCategoryExistByIdAsync(int Id)
+        {
+            bool CategoryExistOrNot = await _context.Categories.AnyAsync(p => p.Id == Id);
+
+            return CategoryExistOrNot;
+        }
     }
 }
