@@ -1,6 +1,13 @@
-﻿namespace PcBackEndAspNetAPI.Interfaces.Repository.User
+﻿using PcBackEndAspNetAPI.Models.UsersModels;
+
+namespace PcBackEndAspNetAPI.Interfaces.Repository.User
 {
-    public class IUserRepository
+    public interface IUserRepository
     {
+        Task AddUserAsync(UserModel user);
+        Task<UserModel> GetUserByIdAsync(string userId);
+        Task UpdateUserAsync(UserModel user);
+        Task DeleteUserAsync(UserModel user);
+        Task<bool> CheckUserExistByIdAsync(string userId);
     }
 }

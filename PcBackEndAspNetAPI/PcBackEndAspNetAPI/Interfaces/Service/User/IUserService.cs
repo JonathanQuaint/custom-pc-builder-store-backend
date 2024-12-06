@@ -6,9 +6,9 @@ namespace PcBackEndAspNetAPI.Interfaces.Service.User
 {
     public interface IUserService
     {
-        Task<List<UserModel>> CreateUser();
-        Task<List<UserModel>> EditUser();
-        Task<List<UserModel>> DeleteUser();
+        Task<UserModel> CreateUser();
+        Task<UserModel> UpdateUser();
+        Task<bool> DeleteUser();
 
     }
 }
